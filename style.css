@@ -1,0 +1,263 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.conteiner{
+    max-width: 1325px;
+    margin: 0 auto;
+}
+.conteiner>.div4{
+    max-width: none;
+    width: 100%;
+height: 82px;
+gap: 0px;
+opacity: 0px;
+background-color: #000000;
+
+}
+.img1{
+    width: 56px;
+height: 46px;
+top: 18px;
+left: 57px;
+gap: 0px;
+opacity: 0px;
+
+}
+.img2{
+    width: 30px;
+height: 30px;
+top: 26px;
+left: 1027px;
+padding: 2.54px 2.5px 2.54px 2.55px;
+gap: 0px;
+opacity: 0px;
+}
+.div4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.p1{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+}
+.div2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}
+.p1::after{
+    content: url(./images/asstes/Polygon\ 1.png);
+    width: 10px;
+height: 10px;
+top: 47px;
+left: 1161px;
+gap: 0px;
+opacity: 0px;
+}
+.but1{
+    width: 192px;
+height: 82px;
+left: 1191px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24.2px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background-color: #F1A900;
+color: #000000;
+}
+.div6{
+    width: 100%;
+height: 44px;
+top: 82px;
+gap: 0px;
+opacity: 0px;
+background-color: #222222;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+}
+.p2{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19.36px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+.div7{
+    background-image: url(./images/asstes/image\ 5.png);
+    width: 100%;
+height: 797px;
+top: 126px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+body{
+    height: 1005px;
+    
+}
+.p3{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF; 
+}
+.p3::after{
+    content: url(./images/asstes/Polygon\ 1.png);
+    width: 10px;
+height: 10px;
+top: 110px;
+left: 382px;
+gap: 0px;
+opacity: 0px;
+padding-left: 10px;
+
+}
+.div8{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div9{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.div10{
+    width: 235px;
+height: 73px;
+top: 475px;
+left: 453px;
+gap: 0px;
+opacity: 0px;
+background-color: #F1A900;
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #000000;
+}
+.div11{
+    width: 235px;
+height: 73px;
+top: 475px;
+left: 752px;
+gap: 0px;
+opacity: 0px;
+background-color: #000000;
+font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48.41px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+
+
+}
+.div12{
+    width: 966px;
+height: 202px;
+top: 579px;
+left: 263px;
+gap: 0px;
+border-radius: 10px ;
+opacity: 0px;
+background-color: #F1A90054;
+font-family: Inter;
+font-size: 64px;
+font-weight: 700;
+line-height: 77.45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: white;
+display: flex;
+align-items: center;
+}
+.div13{
+    width: 100%;
+    height: 82px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.img3{
+    width: 24px;
+height: 24px;
+top: 959px;
+left: 1164px;
+padding: 2px 2.01px 2px 1.99px;
+gap: 0px;
+opacity: 0px;
+
+}
+.img4{
+    
+    width: 24px;
+
+top: 959px;
+left: 1240px;
+padding: 4.5px 0px 3px 0px;
+gap: 0px;
+opacity: 0px;
+
+}
+.img5{
+    width: 24px;
+    height: 24px;
+    top: 959px;
+    left: 1316px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.div14{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 176px;
+    margin-right: 30px;
+}
